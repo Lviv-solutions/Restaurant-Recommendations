@@ -1,0 +1,30 @@
+{
+  "name": "google-maps-restaurant-scraper",
+  "version": "1.0.0",
+  "description": "Advanced Google Maps restaurant scraper using Puppeteer",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "scrape": "node scraper.js",
+    "test": "node test-scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.5.0",
+    "axios": "^1.6.0",
+    "fs-extra": "^11.1.1",
+    "uuid": "^9.0.1",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "google-maps",
+    "scraping",
+    "restaurants",
+    "puppeteer",
+    "riyadh"
+  ],
+  "author": "Restaurant Recommendations System",
+  "license": "MIT"
+}

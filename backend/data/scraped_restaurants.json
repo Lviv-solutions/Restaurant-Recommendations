@@ -1,0 +1,152 @@
+[
+  {
+    "id": "rest_1",
+    "name": "مطعم النجد التراثي",
+    "cuisine": ["Traditional", "Saudi"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 220,
+    "events": ["Family Friendly", "Traditional Music"],
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.7156,
+      "longitude": 46.6743
+    },
+    "description": "مطعم النجد التراثي - مطعم في الرياض يقدم Traditional و Saudi بتقييم 4.6 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "rest_2", 
+    "name": "مقهى الكورنيش",
+    "cuisine": ["Cafe"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 180,
+    "events": ["Casual Dining", "Work Friendly"],
+    "rating": 4.3,
+    "location": {
+      "latitude": 24.7126,
+      "longitude": 46.6763
+    },
+    "description": "مقهى الكورنيش - مطعم في الرياض يقدم Cafe بتقييم 4.3 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=500"
+  },
+  {
+    "id": "rest_3",
+    "name": "برجر هاوس الرياض",
+    "cuisine": ["American", "Burgers"],
+    "price_tier": "low", 
+    "avg_bill_for_3": 120,
+    "events": ["Family Friendly"],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7146,
+      "longitude": 46.6733
+    },
+    "description": "برجر هاوس الرياض - مطعم في الرياض يقدم American و Burgers بتقييم 4.1 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500"
+  },
+  {
+    "id": "rest_4",
+    "name": "مطعم الشام اللبناني",
+    "cuisine": ["Lebanese", "Middle Eastern"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 200,
+    "events": ["Family Friendly"],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7166,
+      "longitude": 46.6773
+    },
+    "description": "مطعم الشام اللبناني - مطعم في الرياض يقدم Lebanese و Middle Eastern بتقييم 4.4 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "rest_5",
+    "name": "بيتزا إيطاليانو",
+    "cuisine": ["Italian", "Pizza"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 200,
+    "events": ["Family Friendly"],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.7136,
+      "longitude": 46.6753
+    },
+    "description": "بيتزا إيطاليانو - مطعم في الرياض يقدم Italian و Pizza بتقييم 4.2 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=500"
+  },
+  {
+    "id": "rest_6",
+    "name": "مطعم التنور التركي",
+    "cuisine": ["Turkish"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 200,
+    "events": ["Family Friendly"],
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.7116,
+      "longitude": 46.6783
+    },
+    "description": "مطعم التنور التركي - مطعم في الرياض يقدم Turkish بتقييم 4.5 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=500"
+  },
+  {
+    "id": "rest_7",
+    "name": "مطعم التاج الهندي",
+    "cuisine": ["Indian"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 200,
+    "events": ["Family Friendly"],
+    "rating": 4.3,
+    "location": {
+      "latitude": 24.7176,
+      "longitude": 46.6723
+    },
+    "description": "مطعم التاج الهندي - مطعم في الرياض يقدم Indian بتقييم 4.3 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500"
+  },
+  {
+    "id": "rest_8",
+    "name": "شاورما الملك",
+    "cuisine": ["Middle Eastern", "Fast Food"],
+    "price_tier": "low",
+    "avg_bill_for_3": 90,
+    "events": ["Family Friendly"],
+    "rating": 4.0,
+    "location": {
+      "latitude": 24.7106,
+      "longitude": 46.6793
+    },
+    "description": "شاورما الملك - مطعم في الرياض يقدم Middle Eastern و Fast Food بتقييم 4.0 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500"
+  },
+  {
+    "id": "rest_9",
+    "name": "مطعم دراغون الصيني",
+    "cuisine": ["Chinese"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 200,
+    "events": ["Family Friendly"],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7186,
+      "longitude": 46.6713
+    },
+    "description": "مطعم دراغون الصيني - مطعم في الرياض يقدم Chinese بتقييم 4.1 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=500"
+  },
+  {
+    "id": "rest_10",
+    "name": "مطعم الأصالة للمندي",
+    "cuisine": ["Traditional", "Saudi"],
+    "price_tier": "high",
+    "avg_bill_for_3": 350,
+    "events": ["Fine Dining", "Date Night"],
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.7096,
+      "longitude": 46.6803
+    },
+    "description": "مطعم الأصالة للمندي - مطعم في الرياض يقدم Traditional و Saudi بتقييم 4.7 نجوم.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  }
+]

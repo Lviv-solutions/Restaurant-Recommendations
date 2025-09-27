@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Namq Café",
+    "cuisine": ["Italian", "Cafe"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 200,
+    "events": ["Live Music", "Family Night"],
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.7136,
+      "longitude": 46.6753
+    },
+    "description": "Specialty coffee with Italian sandwiches and pasta. Perfect for casual dining with live acoustic music on weekends.",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=500"
+  },
+  {
+    "id": "2",
+    "name": "Al Baik",
+    "cuisine": ["Fast Food", "Chicken"],
+    "price_tier": "low",
+    "avg_bill_for_3": 60,
+    "events": ["Family Friendly"],
+    "rating": 4.8,
+    "location": {
+      "latitude": 24.7136,
+      "longitude": 46.6753
+    },
+    "description": "Famous local fast food chain known for crispy fried chicken and garlic sauce. Great value for families.",
+    "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?w=500"
+  },
+  {
+    "id": "3",
+    "name": "Myazu Japanese Restaurant",
+    "cuisine": ["Japanese", "Sushi"],
+    "price_tier": "high",
+    "avg_bill_for_3": 450,
+    "events": ["Business Dining", "Date Night"],
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.7200,
+      "longitude": 46.6800
+    },
+    "description": "Authentic Japanese cuisine with fresh sushi and traditional dishes. Elegant atmosphere perfect for special occasions.",
+    "image_url": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=500"
+  },
+  {
+    "id": "4",
+    "name": "Mama Noura",
+    "cuisine": ["Middle Eastern", "Traditional"],
+    "price_tier": "low",
+    "avg_bill_for_3": 120,
+    "events": ["Family Friendly", "Traditional Music"],
+    "rating": 4.3,
+    "location": {
+      "latitude": 24.7100,
+      "longitude": 46.6700
+    },
+    "description": "Traditional Saudi cuisine with authentic flavors. Famous for their kabsa and grilled meats.",
+    "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500"
+  },
+  {
+    "id": "5",
+    "name": "The Cheesecake Factory",
+    "cuisine": ["American", "Desserts"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 280,
+    "events": ["Family Dining", "Birthday Celebrations"],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7150,
+      "longitude": 46.6750
+    },
+    "description": "American casual dining with extensive menu and famous cheesecakes. Great for family celebrations.",
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=500"
+  },
+  {
+    "id": "6",
+    "name": "Lusin Armenian Restaurant",
+    "cuisine": ["Armenian", "Mediterranean"],
+    "price_tier": "high",
+    "avg_bill_for_3": 380,
+    "events": ["Live Music", "Cultural Events"],
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.7180,
+      "longitude": 46.6780
+    },
+    "description": "Authentic Armenian cuisine with Mediterranean influences. Features live traditional music on weekends.",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=500"
+  },
+  {
+    "id": "7",
+    "name": "Texas Roadhouse",
+    "cuisine": ["American", "Steakhouse"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 320,
+    "events": ["Family Dining", "Sports Viewing"],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.7120,
+      "longitude": 46.6720
+    },
+    "description": "American steakhouse with hand-cut steaks and fall-off-the-bone ribs. Lively atmosphere with country music.",
+    "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+  },
+  {
+    "id": "8",
+    "name": "Karam Beirut",
+    "cuisine": ["Lebanese", "Middle Eastern"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 250,
+    "events": ["Live Music", "Belly Dancing"],
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.7160,
+      "longitude": 46.6760
+    },
+    "description": "Authentic Lebanese cuisine with mezze platters and grilled specialties. Features live entertainment.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "9",
+    "name": "P.F. Chang's",
+    "cuisine": ["Chinese", "Asian"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 290,
+    "events": ["Family Dining", "Business Lunch"],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7140,
+      "longitude": 46.6740
+    },
+    "description": "Asian fusion cuisine with Chinese-inspired dishes. Modern atmosphere perfect for business dining.",
+    "image_url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=500"
+  },
+  {
+    "id": "10",
+    "name": "Shake Shack",
+    "cuisine": ["American", "Burgers"],
+    "price_tier": "low",
+    "avg_bill_for_3": 150,
+    "events": ["Family Friendly", "Quick Dining"],
+    "rating": 4.3,
+    "location": {
+      "latitude": 24.7110,
+      "longitude": 46.6710
+    },
+    "description": "Premium fast-casual burgers and shakes made with high-quality ingredients. Perfect for quick family meals.",
+    "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500"
+  },
+  {
+    "id": "11",
+    "name": "Nando's",
+    "cuisine": ["Portuguese", "Chicken"],
+    "price_tier": "low",
+    "avg_bill_for_3": 180,
+    "events": ["Family Friendly", "Casual Dining"],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.7130,
+      "longitude": 46.6730
+    },
+    "description": "Flame-grilled peri-peri chicken with Portuguese-inspired flavors. Casual dining with spicy options.",
+    "image_url": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=500"
+  },
+  {
+    "id": "12",
+    "name": "Olive Garden",
+    "cuisine": ["Italian", "Pasta"],
+    "price_tier": "medium",
+    "avg_bill_for_3": 240,
+    "events": ["Family Dining", "Date Night"],
+    "rating": 4.0,
+    "location": {
+      "latitude": 24.7170,
+      "longitude": 46.6770
+    },
+    "description": "Italian-American cuisine with unlimited breadsticks and salad. Family-friendly atmosphere.",
+    "image_url": "https://images.unsplash.com/photo-1572441713132-51c75654db73?w=500"
+  }
+]

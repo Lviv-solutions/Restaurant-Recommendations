@@ -1,0 +1,902 @@
+[
+  {
+    "id": "gen_1",
+    "name": "مطعم نجد فيليج",
+    "cuisine": [
+      "Traditional",
+      "Saudi"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 424,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.6684,
+      "longitude": 46.6795
+    },
+    "description": "استمتع بتجربة الطعام التراثي الأصيل في مطعم نجد فيليج مع أطباق الكبسة والمندي الشهية.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_2",
+    "name": "مطعم الأصالة",
+    "cuisine": [
+      "Traditional",
+      "Saudi"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 254,
+    "events": [
+      "Family Friendly",
+      "Traditional Music",
+      "Cultural Experience"
+    ],
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.6775,
+      "longitude": 46.7101
+    },
+    "description": "مطعم الأصالة وجهة مثالية لمحبي الطعام السعودي التقليدي في قلب الرياض.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_3",
+    "name": "مطعم البيت النجدي",
+    "cuisine": [
+      "Traditional",
+      "Saudi"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 181,
+    "events": [
+      "Family Friendly",
+      "Traditional Music",
+      "Cultural Experience"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7589,
+      "longitude": 46.725
+    },
+    "description": "مطعم البيت النجدي وجهة مثالية لمحبي الطعام السعودي التقليدي في قلب الرياض.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_4",
+    "name": "مطعم الدار",
+    "cuisine": [
+      "Traditional",
+      "Saudi"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 345,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7232,
+      "longitude": 46.6619
+    },
+    "description": "استمتع بتجربة الطعام التراثي الأصيل في مطعم الدار مع أطباق الكبسة والمندي الشهية.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_5",
+    "name": "مطعم الخيمة",
+    "cuisine": [
+      "Traditional",
+      "Saudi"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 253,
+    "events": [
+      "Family Friendly",
+      "Traditional Music",
+      "Cultural Experience"
+    ],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.7747,
+      "longitude": 46.6913
+    },
+    "description": "مطعم الخيمة يقدم أشهى الأطباق التراثية السعودية في أجواء أصيلة تعكس التراث العريق.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_6",
+    "name": "مطعم الشام",
+    "cuisine": [
+      "Lebanese",
+      "Middle Eastern"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 268,
+    "events": [
+      "Family Friendly",
+      "Live Music",
+      "Authentic Cuisine"
+    ],
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.7722,
+      "longitude": 46.6325
+    },
+    "description": "مطعم الشام يقدم أشهى المأكولات اللبنانية الأصيلة مع المزة والمشاوي اللذيذة.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_7",
+    "name": "مطعم بيروت",
+    "cuisine": [
+      "Lebanese",
+      "Middle Eastern"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 241,
+    "events": [
+      "Family Friendly",
+      "Live Music",
+      "Authentic Cuisine"
+    ],
+    "rating": 4.3,
+    "location": {
+      "latitude": 24.6453,
+      "longitude": 46.6432
+    },
+    "description": "مطعم بيروت يقدم أشهى المأكولات اللبنانية الأصيلة مع المزة والمشاوي اللذيذة.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_8",
+    "name": "مطعم الأرز اللبناني",
+    "cuisine": [
+      "Lebanese",
+      "Middle Eastern"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 254,
+    "events": [
+      "Family Friendly",
+      "Live Music",
+      "Authentic Cuisine"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.6722,
+      "longitude": 46.7176
+    },
+    "description": "مطعم الأرز اللبناني يقدم أشهى المأكولات اللبنانية الأصيلة مع المزة والمشاوي اللذيذة.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_9",
+    "name": "مطعم كرم بيروت",
+    "cuisine": [
+      "Lebanese",
+      "Middle Eastern"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 358,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.665,
+      "longitude": 46.6062
+    },
+    "description": "تذوق نكهات بلاد الشام الأصيلة في مطعم كرم بيروت مع أطباق الحمص والتبولة والكبة.",
+    "image_url": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500"
+  },
+  {
+    "id": "gen_10",
+    "name": "مطعم اسطنبول",
+    "cuisine": [
+      "Turkish"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 219,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7268,
+      "longitude": 46.6583
+    },
+    "description": "مطعم اسطنبول يقدم الأطباق التركية الشهية مع الكباب والدونر والحلويات التركية.",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=500"
+  },
+  {
+    "id": "gen_11",
+    "name": "مطعم التنور التركي",
+    "cuisine": [
+      "Turkish"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 184,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.7064,
+      "longitude": 46.7388
+    },
+    "description": "مطعم التنور التركي يأخذك في رحلة طعام إلى قلب تركيا مع أشهى الأطباق التقليدية.",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=500"
+  },
+  {
+    "id": "gen_12",
+    "name": "مطعم الأناضول",
+    "cuisine": [
+      "Turkish"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 493,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.7462,
+      "longitude": 46.6385
+    },
+    "description": "مطعم الأناضول يأخذك في رحلة طعام إلى قلب تركيا مع أشهى الأطباق التقليدية.",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=500"
+  },
+  {
+    "id": "gen_13",
+    "name": "مطعم التاج الهندي",
+    "cuisine": [
+      "Indian"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 216,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7121,
+      "longitude": 46.6052
+    },
+    "description": "تذوق التوابل الهندية الأصيلة في مطعم التاج الهندي مع أطباق التندوري والماسالا.",
+    "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500"
+  },
+  {
+    "id": "gen_14",
+    "name": "مطعم بومباي",
+    "cuisine": [
+      "Indian"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 265,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7857,
+      "longitude": 46.6821
+    },
+    "description": "مطعم بومباي يقدم الكاري الهندي الحار والبرياني العطر مع الخبز النان الطازج.",
+    "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500"
+  },
+  {
+    "id": "gen_15",
+    "name": "مطعم الهند",
+    "cuisine": [
+      "Indian"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 84,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.6854,
+      "longitude": 46.6013
+    },
+    "description": "مطعم الهند يقدم الكاري الهندي الحار والبرياني العطر مع الخبز النان الطازج.",
+    "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500"
+  },
+  {
+    "id": "gen_16",
+    "name": "مطعم دراغون",
+    "cuisine": [
+      "Chinese"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 244,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7265,
+      "longitude": 46.6526
+    },
+    "description": "مطعم دراغون يقدم الأطباق الصينية الأصيلة مع الأرز المقلي والنودلز والدجاج الحلو والحامض.",
+    "image_url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=500"
+  },
+  {
+    "id": "gen_17",
+    "name": "مطعم الصين",
+    "cuisine": [
+      "Chinese"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 219,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 3.9,
+    "location": {
+      "latitude": 24.6882,
+      "longitude": 46.6285
+    },
+    "description": "مطعم الصين يقدم الأطباق الصينية الأصيلة مع الأرز المقلي والنودلز والدجاج الحلو والحامض.",
+    "image_url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=500"
+  },
+  {
+    "id": "gen_18",
+    "name": "مطعم بكين",
+    "cuisine": [
+      "Chinese"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 325,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.7387,
+      "longitude": 46.7319
+    },
+    "description": "استمتع بالنكهات الآسيوية في مطعم بكين مع أطباق الديم سام والبط المشوي.",
+    "image_url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=500"
+  },
+  {
+    "id": "gen_19",
+    "name": "مطعم روما",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 236,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.639,
+      "longitude": 46.6135
+    },
+    "description": "تذوق إيطاليا في مطعم روما مع أطباق اللازانيا والريزوتو والتيراميسو.",
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=500"
+  },
+  {
+    "id": "gen_20",
+    "name": "بيتزا هت",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 237,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 3.9,
+    "location": {
+      "latitude": 24.7872,
+      "longitude": 46.6317
+    },
+    "description": "بيتزا هت وجهة محبي الطعام الإيطالي والبيتزا الطازجة.",
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=500"
+  },
+  {
+    "id": "gen_21",
+    "name": "مطعم نابولي",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 489,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.6845,
+      "longitude": 46.6597
+    },
+    "description": "تذوق إيطاليا في مطعم نابولي مع أطباق اللازانيا والريزوتو والتيراميسو.",
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=500"
+  },
+  {
+    "id": "gen_22",
+    "name": "برجر كينغ",
+    "cuisine": [
+      "American",
+      "Burgers"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 134,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7659,
+      "longitude": 46.6397
+    },
+    "description": "برجر كينغ يقدم البرجر الأمريكي الشهي والبطاطس المقرمشة مع المشروبات الباردة.",
+    "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500"
+  },
+  {
+    "id": "gen_23",
+    "name": "ماكدونالدز",
+    "cuisine": [
+      "American",
+      "Burgers"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 101,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 3.7,
+    "location": {
+      "latitude": 24.7251,
+      "longitude": 46.6784
+    },
+    "description": "استمتع بالطعام الأمريكي السريع في ماكدونالدز مع أطباق الدجاج المقلي والسندويشات.",
+    "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500"
+  },
+  {
+    "id": "gen_24",
+    "name": "هارديز",
+    "cuisine": [
+      "American",
+      "Burgers"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 118,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 3.9,
+    "location": {
+      "latitude": 24.689,
+      "longitude": 46.6431
+    },
+    "description": "هارديز يقدم البرجر الأمريكي الشهي والبطاطس المقرمشة مع المشروبات الباردة.",
+    "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500"
+  },
+  {
+    "id": "gen_25",
+    "name": "تشيليز",
+    "cuisine": [
+      "American"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 187,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.745,
+      "longitude": 46.6547
+    },
+    "description": "استمتع بالطعام الأمريكي السريع في تشيليز مع أطباق الدجاج المقلي والسندويشات.",
+    "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500"
+  },
+  {
+    "id": "gen_26",
+    "name": "ستarbucks",
+    "cuisine": [
+      "Cafe"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 220,
+    "events": [
+      "Casual Dining",
+      "Work Friendly",
+      "Coffee Lovers"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7312,
+      "longitude": 46.615
+    },
+    "description": "استرخ واستمتع بكوب قهوة مميز في ستarbucks مع أجواء هادئة ومريحة.",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=500"
+  },
+  {
+    "id": "gen_27",
+    "name": "كوستا كوفي",
+    "cuisine": [
+      "Cafe"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 220,
+    "events": [
+      "Casual Dining",
+      "Work Friendly",
+      "Coffee Lovers"
+    ],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.6846,
+      "longitude": 46.7218
+    },
+    "description": "استرخ واستمتع بكوب قهوة مميز في كوستا كوفي مع أجواء هادئة ومريحة.",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=500"
+  },
+  {
+    "id": "gen_28",
+    "name": "مقهى الكورنيش",
+    "cuisine": [
+      "Cafe"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 221,
+    "events": [
+      "Casual Dining",
+      "Work Friendly",
+      "Coffee Lovers"
+    ],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.6468,
+      "longitude": 46.7371
+    },
+    "description": "مقهى الكورنيش المكان المثالي لاجتماعات العمل وقضاء وقت ممتع مع الأصدقاء.",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=500"
+  },
+  {
+    "id": "gen_29",
+    "name": "مقهى النخيل",
+    "cuisine": [
+      "Cafe"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 125,
+    "events": [
+      "Casual Dining",
+      "Work Friendly",
+      "Coffee Lovers"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7037,
+      "longitude": 46.6184
+    },
+    "description": "مقهى النخيل يقدم أفضل أنواع القهوة والمشروبات الساخنة مع الحلويات والمعجنات الطازجة.",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=500"
+  },
+  {
+    "id": "gen_30",
+    "name": "الطازج",
+    "cuisine": [
+      "Fast Food",
+      "Middle Eastern"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 117,
+    "events": [
+      "Quick Service",
+      "Family Friendly",
+      "Takeaway"
+    ],
+    "rating": 4.2,
+    "location": {
+      "latitude": 24.6543,
+      "longitude": 46.6475
+    },
+    "description": "الطازج يقدم الوجبات السريعة اللذيذة والطازجة بأسعار مناسبة للجميع.",
+    "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?w=500"
+  },
+  {
+    "id": "gen_31",
+    "name": "شاورما الملك",
+    "cuisine": [
+      "Fast Food",
+      "Middle Eastern"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 146,
+    "events": [
+      "Quick Service",
+      "Family Friendly",
+      "Takeaway"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7283,
+      "longitude": 46.6881
+    },
+    "description": "شاورما الملك الخيار الأمثل للوجبات السريعة والطعم المميز.",
+    "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?w=500"
+  },
+  {
+    "id": "gen_32",
+    "name": "كنتاكي",
+    "cuisine": [
+      "Fast Food",
+      "Chicken"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 150,
+    "events": [
+      "Quick Service",
+      "Family Friendly",
+      "Takeaway"
+    ],
+    "rating": 3.9,
+    "location": {
+      "latitude": 24.645,
+      "longitude": 46.7089
+    },
+    "description": "استمتع بالطعام السريع والشهي في كنتاكي مع خدمة سريعة ونظيفة.",
+    "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?w=500"
+  },
+  {
+    "id": "gen_33",
+    "name": "البيك",
+    "cuisine": [
+      "Fast Food",
+      "Chicken"
+    ],
+    "price_tier": "low",
+    "avg_bill_for_3": 99,
+    "events": [
+      "Quick Service",
+      "Family Friendly",
+      "Takeaway"
+    ],
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.7092,
+      "longitude": 46.7094
+    },
+    "description": "البيك يقدم الوجبات السريعة اللذيذة والطازجة بأسعار مناسبة للجميع.",
+    "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?w=500"
+  },
+  {
+    "id": "gen_34",
+    "name": "مطعم طوكيو",
+    "cuisine": [
+      "Japanese",
+      "Sushi"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 352,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.6962,
+      "longitude": 46.6222
+    },
+    "description": "مطعم طوكيو يقدم الوجبات السريعة اللذيذة والطازجة بأسعار مناسبة للجميع.",
+    "image_url": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=500"
+  },
+  {
+    "id": "gen_35",
+    "name": "مطعم ساكورا",
+    "cuisine": [
+      "Japanese",
+      "Sushi"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 416,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.6524,
+      "longitude": 46.7146
+    },
+    "description": "مطعم ساكورا الخيار الأمثل للوجبات السريعة والطعم المميز.",
+    "image_url": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=500"
+  },
+  {
+    "id": "gen_36",
+    "name": "مطعم أوساكا",
+    "cuisine": [
+      "Japanese",
+      "Sushi"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 274,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.1,
+    "location": {
+      "latitude": 24.7382,
+      "longitude": 46.6147
+    },
+    "description": "استمتع بالطعام السريع والشهي في مطعم أوساكا مع خدمة سريعة ونظيفة.",
+    "image_url": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=500"
+  },
+  {
+    "id": "gen_37",
+    "name": "مطعم تاكو بيل",
+    "cuisine": [
+      "Mexican"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 249,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.3,
+    "location": {
+      "latitude": 24.6579,
+      "longitude": 46.7037
+    },
+    "description": "مطعم تاكو بيل يقدم الوجبات السريعة اللذيذة والطازجة بأسعار مناسبة للجميع.",
+    "image_url": "https://images.unsplash.com/photo-1565299585323-38174c4a6471?w=500"
+  },
+  {
+    "id": "gen_38",
+    "name": "مطعم المكسيك",
+    "cuisine": [
+      "Mexican"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 193,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.3,
+    "location": {
+      "latitude": 24.685,
+      "longitude": 46.7115
+    },
+    "description": "مطعم المكسيك يقدم الوجبات السريعة اللذيذة والطازجة بأسعار مناسبة للجميع.",
+    "image_url": "https://images.unsplash.com/photo-1565299585323-38174c4a6471?w=500"
+  },
+  {
+    "id": "gen_39",
+    "name": "مطعم باريس",
+    "cuisine": [
+      "French"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 437,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.7741,
+      "longitude": 46.6531
+    },
+    "description": "مطعم باريس يقدم الوجبات السريعة اللذيذة والطازجة بأسعار مناسبة للجميع.",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=500"
+  },
+  {
+    "id": "gen_40",
+    "name": "مطعم الشانزليزيه",
+    "cuisine": [
+      "French"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 380,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7427,
+      "longitude": 46.6075
+    },
+    "description": "استمتع بالطعام السريع والشهي في مطعم الشانزليزيه مع خدمة سريعة ونظيفة.",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=500"
+  },
+  {
+    "id": "gen_41",
+    "name": "مطعم الفردوس",
+    "cuisine": [
+      "International"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 260,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.3,
+    "location": {
+      "latitude": 24.7461,
+      "longitude": 46.6107
+    },
+    "description": "مطعم الفردوس الخيار الأمثل للوجبات السريعة والطعم المميز.",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500"
+  },
+  {
+    "id": "gen_42",
+    "name": "مطعم الواحة",
+    "cuisine": [
+      "International"
+    ],
+    "price_tier": "medium",
+    "avg_bill_for_3": 227,
+    "events": [
+      "Family Friendly"
+    ],
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7535,
+      "longitude": 46.6761
+    },
+    "description": "مطعم الواحة يقدم الوجبات السريعة اللذيذة والطازجة بأسعار مناسبة للجميع.",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500"
+  },
+  {
+    "id": "gen_43",
+    "name": "مطعم الحديقة",
+    "cuisine": [
+      "International"
+    ],
+    "price_tier": "high",
+    "avg_bill_for_3": 434,
+    "events": [
+      "Fine Dining",
+      "Date Night",
+      "Business Dining",
+      "Special Occasions"
+    ],
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.694,
+      "longitude": 46.6269
+    },
+    "description": "استمتع بالطعام السريع والشهي في مطعم الحديقة مع خدمة سريعة ونظيفة.",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500"
+  }
+]
